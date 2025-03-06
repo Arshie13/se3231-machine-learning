@@ -1,0 +1,16 @@
+1. Why did you choose this dataset?
+    Answer: I chose this dataset because I thought
+            this would be the easiest out of
+            the three options huhu.
+
+2. What is your conclusion upon conducting linear regression on this dataset?
+    Answer: Linear Regression is not suitable for this kind of dataset
+            because the the grade is not really linearly dependent to
+            most of the independent variables.
+
+3. How relevant is linear regression today?
+    Answer: Linear Regression is still relevant today but it does have
+            its limitations. When given datasets have strong linear relationships,
+            linear regression remains an excellent choice. However,
+            real-world data is rarely linear. Many problems (such as the ones given in this activity)
+            have non-linear relationships that linear regression fails to capture.
